@@ -5,7 +5,7 @@ function getIt(){
 }
 
 function frameIt(){
-  $('load')
+  $('').on
 }
 
 $(document).ready(function(){
