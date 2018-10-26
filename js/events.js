@@ -10,6 +10,7 @@ $(document).ready(function(){
 
 function getIt(){
   $(`p`).on(`click`)
+  return 
 }
 
 });
