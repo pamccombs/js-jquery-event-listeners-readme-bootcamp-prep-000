@@ -1,4 +1,7 @@
 //define functions here
+function getIT(){
+  
+}
 
 $(document).ready(function(){
 
