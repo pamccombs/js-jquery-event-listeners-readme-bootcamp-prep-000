@@ -1,6 +1,7 @@
 //define functions here
 getIT()
-frame
+frame()
+
 
 $(document).ready(function(){
 
